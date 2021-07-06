@@ -1,0 +1,7 @@
+digraph "com.bms:bms:war:1" { 
+	"com.bms:bms:war:1" -> "junit:junit:jar:4.11:test" ; 
+	"junit:junit:jar:4.11:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
+ } digraph "com.bms:bms:war:1" { 
+	"com.bms:bms:war:1" -> "junit:junit:jar:4.11:test" ; 
+	"junit:junit:jar:4.11:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
+ } 
